@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-162747-000033-T1.jpg
+
+NumberOfPlate
+1
+
+PlateString
+강원3도9320
+
+PlateRect
+973 782 262 138
+
+IsDarkChar
+2
+
+PlateType
+2202
+
+BusinessChar
+0
+
+
+RegionCode
+2
+강 1088 824 23 23
+원 1111 825 26 23
+
+CarCode
+1
+3 1137 828 23 23
+
+UseCode
+1
+도 1049 852 28 31
+
+FourNumber
+4
+9 1087 851 25 40
+3 1115 852 27 40
+2 1146 854 25 43
+0 1176 855 25 42
+

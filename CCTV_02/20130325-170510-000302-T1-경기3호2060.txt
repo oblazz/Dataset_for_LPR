@@ -1,0 +1,43 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-170510-000302-T1-경기3호2060.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기3호2060
+
+PlateRect
+1155 838 193 105
+
+IsDarkChar
+2
+
+PlateType
+2202
+
+BusinessChar
+0
+
+RegionCode
+2
+경 1214 856 22 23
+기 1237 856 23 23
+
+CarCode
+1
+3 1265 855 23 23
+
+UseCode
+1
+호 1176 889 30 28
+
+FourNumber
+4
+2 1211 882 29 44
+0 1241 882 29 44
+6 1269 882 29 43
+0 1298 880 29 44
+

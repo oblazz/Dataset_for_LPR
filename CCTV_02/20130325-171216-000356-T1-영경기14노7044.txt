@@ -1,0 +1,45 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-171216-000356-T1-영경기14노7044.jpg
+
+NumberOfPlate
+1
+
+PlateString
+영경기14노7044
+
+PlateRect
+503 620 363 155
+
+IsDarkChar
+2
+
+PlateType
+2205
+
+BusinessChar
+1
+영 542 645 43 41
+
+RegionCode
+2
+경 596 646 54 41
+기 714 647 56 44
+
+CarCode
+2
+1 547 694 31 50
+4 585 696 35 48
+
+UseCode
+1
+노 623 699 31 45
+
+FourNumber
+4
+7 659 700 34 48
+0 702 701 37 48
+4 746 702 37 48
+4 791 702 35 47
+

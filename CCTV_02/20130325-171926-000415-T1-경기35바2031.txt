@@ -1,0 +1,43 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-171926-000415-T1-경기35바2031.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기35바2031
+
+PlateRect
+927 806 311 74
+
+IsDarkChar
+1
+
+PlateType
+1103
+
+BusinessChar
+0
+
+RegionCode
+1
+경기 961 820 29 39
+
+CarCode
+2
+3 992 822 28 37
+5 1022 822 27 38
+
+UseCode
+1
+바 1050 826 27 33
+
+FourNumber
+4
+2 1090 824 26 37
+0 1120 825 25 37
+3 1150 827 26 37
+1 1179 828 25 37
+

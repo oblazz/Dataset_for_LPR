@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-171649-000397-T1-서울46나9907.jpg
+
+NumberOfPlate
+1
+
+PlateString
+서울46나9907
+
+PlateRect
+686 747 220 108
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+서 748 764 23 21
+울 772 764 20 26
+
+CarCode
+2
+4 796 764 20 23
+6 816 767 19 19
+
+UseCode
+1
+나 710 788 34 32
+
+FourNumber
+4
+9 754 790 30 45
+9 784 791 29 44
+0 814 791 30 45
+7 851 791 31 46
+

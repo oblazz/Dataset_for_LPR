@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-170623-000310-T1-경기71바9309.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기71바9309
+
+PlateRect
+846 709 266 137
+
+IsDarkChar
+1
+
+PlateType
+1201
+
+BusinessChar
+0
+
+RegionCode
+2
+경 923 731 24 24
+기 953 732 28 26
+
+CarCode
+2
+7 1002 732 18 27
+1 1030 733 7 26
+
+UseCode
+1
+바 875 763 44 42
+
+FourNumber
+4
+9 928 766 35 52
+3 966 766 37 54
+0 1007 768 37 54
+9 1048 770 35 54
+

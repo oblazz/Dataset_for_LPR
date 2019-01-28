@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-165809-000257-T1-경기51로3658.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기51로3658
+
+PlateRect
+1257 798 208 93
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+경 1322 814 20 20
+기 1342 815 22 19
+
+CarCode
+2
+5 1368 813 18 23
+1 1394 814 7 22
+
+UseCode
+1
+로 1279 839 38 20
+
+FourNumber
+4
+3 1323 844 28 30
+6 1355 840 26 33
+5 1384 840 27 33
+8 1415 840 27 36
+

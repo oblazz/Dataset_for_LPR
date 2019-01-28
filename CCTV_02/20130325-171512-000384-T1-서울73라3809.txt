@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-171512-000384-T1-서울73라3809.jpg
+
+NumberOfPlate
+1
+
+PlateString
+서울73라3809
+
+PlateRect
+763 761 206 103
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+서 826 777 19 18
+울 848 777 19 19
+
+CarCode
+2
+7 871 778 19 20
+3 891 778 17 21
+
+UseCode
+1
+라 785 798 39 33
+
+FourNumber
+4
+3 830 801 28 42
+8 859 803 29 43
+0 887 803 29 43
+9 916 803 30 44
+

@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-171706-000398-T1-인천85자3005.jpg
+
+NumberOfPlate
+1
+
+PlateString
+인천85자3005
+
+PlateRect
+660 749 211 111
+
+IsDarkChar
+1
+
+PlateType
+1201
+
+BusinessChar
+0
+
+RegionCode
+2
+인 712 768 29 23
+천 741 768 22 23
+
+CarCode
+2
+8 770 767 22 25
+5 793 768 27 23
+
+UseCode
+1
+자 683 798 33 37
+
+FourNumber
+4
+3 717 798 29 44
+0 752 798 29 44
+0 785 798 29 44
+5 819 798 29 44
+

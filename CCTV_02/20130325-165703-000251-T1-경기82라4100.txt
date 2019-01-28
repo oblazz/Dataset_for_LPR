@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-165703-000251-T1-경기82라4100.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기82라4100
+
+PlateRect
+1018 793 211 113
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+경 1087 811 17 20
+기 1107 812 21 19
+
+CarCode
+2
+8 1130 812 18 22
+2 1150 812 19 23
+
+UseCode
+1
+라 1041 832 43 38
+
+FourNumber
+4
+4 1084 836 33 49
+1 1112 837 33 49
+0 1144 839 32 48
+0 1174 840 32 48
+

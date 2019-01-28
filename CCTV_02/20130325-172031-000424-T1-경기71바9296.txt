@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-172031-000424-T1-경기71바9296.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기71바9296
+
+PlateRect
+725 711 259 136
+
+IsDarkChar
+1
+
+PlateType
+1201
+
+BusinessChar
+0
+
+RegionCode
+2
+경 802 733 29 31
+기 832 734 28 31
+
+CarCode
+2
+7 867 735 29 31
+1 898 735 17 31
+
+UseCode
+1
+바 753 768 44 47
+
+FourNumber
+4
+9 809 770 35 53
+2 848 771 35 53
+9 886 772 35 53
+6 921 772 35 53
+

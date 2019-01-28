@@ -1,0 +1,45 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-162747-000033-T1.jpg
+
+NumberOfPlate
+1
+
+PlateString
+서울46러7012
+
+PlateRect
+561 711 269 150
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+
+RegionCode
+2
+서 672 760 21 21
+울 695 760 20 21
+
+CarCode
+2
+4 719 761 18 22
+6 738 761 19 22
+
+UseCode
+1
+러 637 783 33 36
+
+FourNumber
+4
+7 678 786 27 48
+0 707 786 29 48
+1 734 787 31 49
+2 767 788 28 48
+
