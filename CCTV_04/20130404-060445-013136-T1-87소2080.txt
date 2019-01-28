@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-060445-013136-T1-87¼Ò2080.jpg
+
+NumberOfPlate
+1
+
+PlateString
+87¼Ò2080
+
+PlateRect
+410 795 191 83
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+8 432 820 21 35
+7 452 821 21 32
+
+UseCode
+1
+¼Ò 475 827 19 26
+
+FourNumber
+4
+2 497 820 20 34
+0 519 819 18 34
+8 539 817 20 36
+0 560 817 19 35
+

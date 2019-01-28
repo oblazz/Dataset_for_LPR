@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-052627-013104-T1-95´õ1617.jpg
+
+NumberOfPlate
+1
+
+PlateString
+95´õ1617
+
+PlateRect
+1071 785 176 91
+
+IsDarkChar
+2
+
+PlateType
+2201
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+9 1120 800 22 18
+5 1146 799 21 18
+
+UseCode
+1
+´õ 1171 799 23 16
+
+FourNumber
+4
+1 1090 822 25 39
+6 1123 819 31 39
+1 1162 818 25 39
+7 1195 817 33 40
+

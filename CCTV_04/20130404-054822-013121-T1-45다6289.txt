@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-054822-013121-T1-45´Ù6289.jpg
+
+NumberOfPlate
+1
+
+PlateString
+45´Ù6289
+
+PlateRect
+735 680 181 94
+
+IsDarkChar
+2
+
+PlateType
+2201
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+4 787 697 24 18
+5 813 695 22 19
+
+UseCode
+1
+´Ù 837 695 24 19
+
+FourNumber
+4
+6 754 717 33 42
+2 789 718 35 39
+8 827 717 33 40
+9 863 716 33 41
+

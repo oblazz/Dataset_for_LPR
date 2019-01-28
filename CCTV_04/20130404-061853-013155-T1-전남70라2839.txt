@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-061853-013155-T1-전남70라2839.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남70라2839
+
+PlateRect
+723 722 176 88
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+전 773 737 18 19
+남 793 737 18 18
+
+CarCode
+2
+7 814 736 15 19
+0 831 736 16 20
+
+UseCode
+1
+라 742 760 27 24
+
+FourNumber
+4
+2 778 759 25 37
+8 805 758 24 36
+3 831 758 24 35
+9 857 758 23 36
+

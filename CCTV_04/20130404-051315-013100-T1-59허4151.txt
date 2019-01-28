@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-051315-013100-T1-59Çã4151.jpg
+
+NumberOfPlate
+1
+
+PlateString
+59Çã4151
+
+PlateRect
+894 480 240 78
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+5 920 506 22 36
+9 943 504 23 35
+
+UseCode
+1
+Çã 967 506 27 30
+
+FourNumber
+4
+4 1010 500 24 35
+1 1035 499 24 36
+5 1060 497 23 36
+1 1085 495 23 36
+

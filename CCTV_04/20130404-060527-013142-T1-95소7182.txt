@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-060527-013142-T1-95¼Ò7182.jpg
+
+NumberOfPlate
+1
+
+PlateString
+95¼Ò7182
+
+PlateRect
+653 743 253 63
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+9 680 755 22 36
+5 707 756 22 35
+
+UseCode
+1
+¼Ò 731 759 24 30
+
+FourNumber
+4
+7 775 756 26 37
+1 803 756 24 37
+8 827 756 25 36
+2 854 756 24 36
+

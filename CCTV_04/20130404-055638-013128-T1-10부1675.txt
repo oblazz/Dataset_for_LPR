@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-055638-013128-T1-10ºÎ1675.jpg
+
+NumberOfPlate
+1
+
+PlateString
+10ºÎ1675
+
+PlateRect
+890 777 250 61
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+1 917 792 22 34
+0 942 791 22 34
+
+UseCode
+1
+ºÎ 967 793 24 31
+
+FourNumber
+4
+1 1012 790 23 35
+6 1036 789 25 36
+7 1061 789 26 36
+5 1087 789 26 36
+

@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-054551-013119-T1-97µµ5236.jpg
+
+NumberOfPlate
+1
+
+PlateString
+97µµ5236
+
+PlateRect
+537 816 188 79
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+9 558 842 18 31
+7 578 842 18 29
+
+UseCode
+1
+µµ 599 847 19 24
+
+FourNumber
+4
+5 622 840 19 31
+2 643 840 17 29
+3 662 838 20 32
+6 684 837 19 31
+

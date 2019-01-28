@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-055710-013129-T1-84ºÎ6328.jpg
+
+NumberOfPlate
+1
+
+PlateString
+84ºÎ6328
+
+PlateRect
+838 701 185 79
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+8 859 723 19 33
+4 879 723 19 33
+
+UseCode
+1
+ºÎ 900 730 18 26
+
+FourNumber
+4
+6 922 722 19 35
+3 941 722 21 35
+2 963 722 19 36
+8 983 722 19 36
+

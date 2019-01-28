@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-060001-013133-T1-95´õ3162.jpg
+
+NumberOfPlate
+1
+
+PlateString
+95´õ3162
+
+PlateRect
+719 708 183 96
+
+IsDarkChar
+2
+
+PlateType
+2201
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+9 771 725 23 18
+5 799 724 21 18
+
+UseCode
+1
+´õ 823 723 22 17
+
+FourNumber
+4
+3 739 747 34 41
+1 778 745 28 43
+6 813 744 33 42
+2 848 744 34 42
+

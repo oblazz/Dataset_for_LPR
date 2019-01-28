@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-062932-013171-T1-59°¡3721.jpg
+
+NumberOfPlate
+1
+
+PlateString
+59°¡3721
+
+PlateRect
+1385 540 172 108
+
+IsDarkChar
+2
+
+PlateType
+2201
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+5 1435 561 21 17
+9 1458 559 20 17
+
+UseCode
+1
+°¡ 1484 557 19 16
+
+FourNumber
+4
+3 1403 585 32 45
+7 1436 581 33 47
+2 1472 579 34 45
+1 1507 574 31 46
+

@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-060721-013145-T1-전남90다1375.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남90다1375
+
+PlateRect
+698 729 174 87
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+전 750 743 18 16
+남 769 744 16 15
+
+CarCode
+2
+9 787 743 17 17
+0 805 743 16 17
+
+UseCode
+1
+다 717 762 28 25
+
+FourNumber
+4
+1 751 762 26 40
+3 777 762 25 37
+7 803 763 24 36
+5 828 762 25 38
+

@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-055916-013131-T1-28°Å6866.jpg
+
+NumberOfPlate
+1
+
+PlateString
+28°Å6866
+
+PlateRect
+640 784 257 66
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+2 668 799 30 37
+8 694 800 29 37
+
+UseCode
+1
+°Å 722 805 26 28
+
+FourNumber
+4
+6 768 802 22 31
+8 793 800 24 33
+6 819 799 24 34
+6 845 797 24 34
+

@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-062336-013159-T1-06ºÎ7554.jpg
+
+NumberOfPlate
+1
+
+PlateString
+06ºÎ7554
+
+PlateRect
+580 710 188 88
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+0 601 739 18 32
+6 621 738 20 33
+
+UseCode
+1
+ºÎ 643 744 18 26
+
+FourNumber
+4
+7 663 736 22 37
+5 685 735 21 36
+5 707 735 20 36
+4 727 734 19 40
+

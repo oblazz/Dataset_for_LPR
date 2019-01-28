@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-053231-013108-T1-48¹ö5535.jpg
+
+NumberOfPlate
+1
+
+PlateString
+48¹ö5535
+
+PlateRect
+1451 394 172 90
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+4 1470 421 17 32
+8 1490 420 17 33
+
+UseCode
+1
+¹ö 1508 426 18 27
+
+FourNumber
+4
+5 1529 418 18 41
+5 1547 419 19 36
+3 1568 420 15 33
+5 1585 418 18 37
+

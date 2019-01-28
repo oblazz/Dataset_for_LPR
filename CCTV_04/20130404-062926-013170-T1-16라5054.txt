@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-062926-013170-T1-16¶ó5054.jpg
+
+NumberOfPlate
+1
+
+PlateString
+16¶ó5054
+
+PlateRect
+522 761 249 74
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+1 549 783 20 31
+6 569 783 28 37
+
+UseCode
+1
+¶ó 599 784 23 27
+
+FourNumber
+4
+5 643 778 23 34
+0 668 778 24 33
+5 695 776 28 34
+4 719 775 25 33
+

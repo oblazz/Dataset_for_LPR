@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-062425-013161-T1-전남90나9973.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남90나9973
+
+PlateRect
+626 742 174 85
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+전 678 755 16 19
+남 697 755 16 18
+
+CarCode
+2
+9 715 755 16 19
+0 732 755 17 19
+
+UseCode
+1
+나 645 774 26 38
+
+FourNumber
+4
+9 680 777 23 36
+9 706 776 23 36
+7 731 776 24 37
+3 756 774 25 39
+

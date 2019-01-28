@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-054657-013120-T1-49Á¶9222.jpg
+
+NumberOfPlate
+1
+
+PlateString
+49Á¶9222
+
+PlateRect
+758 776 250 61
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+4 785 793 24 31
+9 811 791 22 33
+
+UseCode
+1
+Á¶ 836 794 24 29
+
+FourNumber
+4
+9 880 790 24 35
+2 906 789 24 35
+2 932 789 24 35
+2 958 788 23 34
+

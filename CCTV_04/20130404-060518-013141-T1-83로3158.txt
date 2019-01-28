@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-060518-013141-T1-83·Î3158.jpg
+
+NumberOfPlate
+1
+
+PlateString
+83·Î3158
+
+PlateRect
+876 695 188 81
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+8 897 719 18 34
+3 917 720 19 33
+
+UseCode
+1
+·Î 938 725 19 27
+
+FourNumber
+4
+3 960 718 21 36
+1 980 717 24 37
+5 1002 717 19 35
+8 1023 717 19 36
+
