@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-042237-013096-T1-50¹«8999.jpg
+
+NumberOfPlate
+1
+
+PlateString
+50¹«8999
+
+PlateRect
+545 768 250 59
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+5 572 783 22 32
+0 597 782 22 33
+
+UseCode
+1
+¹« 622 785 24 28
+
+FourNumber
+4
+8 666 781 25 34
+9 692 781 23 33
+9 717 780 24 34
+9 743 779 25 35
+

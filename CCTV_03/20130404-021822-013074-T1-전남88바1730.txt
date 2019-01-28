@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-021822-013074-T1-전남88바1730.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남88바1730
+
+PlateRect
+1083 652 236 122
+
+IsDarkChar
+1
+
+PlateType
+1201
+
+BusinessChar
+0
+
+RegionCode
+2
+전 1150 675 23 23
+남 1176 674 23 24
+
+CarCode
+2
+8 1209 673 20 26
+8 1232 671 21 27
+
+UseCode
+1
+바 1108 706 35 38
+
+FourNumber
+4
+1 1153 705 30 49
+7 1187 705 35 48
+3 1223 705 33 47
+0 1261 703 32 49
+

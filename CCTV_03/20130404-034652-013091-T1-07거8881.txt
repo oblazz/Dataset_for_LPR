@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-034652-013091-T1-07°Å8881.jpg
+
+NumberOfPlate
+1
+
+PlateString
+07°Å8881
+
+PlateRect
+413 822 176 87
+
+IsDarkChar
+2
+
+PlateType
+2201
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+0 463 836 23 19
+7 489 836 22 18
+
+UseCode
+1
+°Å 515 836 23 17
+
+FourNumber
+4
+8 432 857 32 38
+8 468 857 32 38
+8 505 855 33 40
+1 544 854 26 40
+

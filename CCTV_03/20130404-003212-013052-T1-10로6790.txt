@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-003212-013052-T1-10·Î6790.jpg
+
+NumberOfPlate
+1
+
+PlateString
+10·Î6790
+
+PlateRect
+1357 865 249 58
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+1 1384 881 19 30
+0 1407 879 23 31
+
+UseCode
+1
+·Î 1432 881 24 29
+
+FourNumber
+4
+6 1477 878 25 32
+7 1503 877 25 33
+9 1529 877 23 32
+0 1554 876 25 32
+

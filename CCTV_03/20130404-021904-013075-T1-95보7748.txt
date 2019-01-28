@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-021904-013075-T1-95º¸7748.jpg
+
+NumberOfPlate
+1
+
+PlateString
+95º¸7748
+
+PlateRect
+874 695 185 97
+
+IsDarkChar
+2
+
+PlateType
+2201
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+9 930 710 23 21
+5 956 710 22 20
+
+UseCode
+1
+º¸ 981 711 23 19
+
+FourNumber
+4
+7 894 733 34 43
+7 931 733 35 42
+4 967 733 36 42
+8 1006 733 33 42
+

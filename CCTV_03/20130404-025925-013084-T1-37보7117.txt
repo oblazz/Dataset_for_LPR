@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-025925-013084-T1-37º¸7117.jpg
+
+NumberOfPlate
+1
+
+PlateString
+37º¸7117
+
+PlateRect
+750 756 252 61
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+3 777 771 22 34
+7 803 771 22 34
+
+UseCode
+1
+º¸ 828 773 24 30
+
+FourNumber
+4
+7 871 770 26 35
+1 898 769 18 36
+1 918 768 24 36
+7 944 768 30 36
+

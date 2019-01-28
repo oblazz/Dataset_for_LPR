@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-001122-013040-T1-25¼ö3042.jpg
+
+NumberOfPlate
+1
+
+PlateString
+25¼ö3042
+
+PlateRect
+897 744 249 61
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+2 924 760 20 33
+5 949 760 22 33
+
+UseCode
+1
+¼ö 974 761 23 31
+
+FourNumber
+4
+3 1017 759 24 34
+0 1044 758 24 35
+4 1068 756 26 36
+2 1095 756 24 36
+

@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-033625-013090-T1-49Á¶9960.jpg
+
+NumberOfPlate
+1
+
+PlateString
+49Á¶9960
+
+PlateRect
+801 773 253 63
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+4 828 790 24 33
+9 855 789 22 34
+
+UseCode
+1
+Á¶ 880 791 24 30
+
+FourNumber
+4
+9 925 788 23 35
+9 951 787 23 35
+6 976 785 26 36
+0 1002 786 24 35
+

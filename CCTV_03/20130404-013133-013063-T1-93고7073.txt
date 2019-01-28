@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-013133-013063-T1-93°í7073.jpg
+
+NumberOfPlate
+1
+
+PlateString
+93°í7073
+
+PlateRect
+988 757 188 85
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+9 1009 785 18 32
+3 1033 786 18 29
+
+UseCode
+1
+°í 1050 789 19 26
+
+FourNumber
+4
+7 1072 782 21 35
+0 1093 782 21 35
+7 1113 781 21 38
+3 1133 780 21 35
+

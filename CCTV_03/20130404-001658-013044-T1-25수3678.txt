@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-001658-013044-T1-25¼ö3678.jpg
+
+NumberOfPlate
+1
+
+PlateString
+25¼ö3678
+
+PlateRect
+715 789 252 61
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+2 742 803 23 34
+5 768 803 23 34
+
+UseCode
+1
+¼ö 792 807 25 28
+
+FourNumber
+4
+3 837 804 23 34
+6 863 802 25 36
+7 888 802 24 34
+8 913 801 26 35
+

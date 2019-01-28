@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-035753-013093-T1-89¼Ò9277.jpg
+
+NumberOfPlate
+1
+
+PlateString
+89¼Ò9277
+
+PlateRect
+779 694 257 64
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+8 807 711 23 34
+9 833 710 22 34
+
+UseCode
+1
+¼Ò 859 713 25 30
+
+FourNumber
+4
+9 904 708 24 37
+2 931 708 24 36
+7 956 707 25 36
+7 982 706 26 37
+

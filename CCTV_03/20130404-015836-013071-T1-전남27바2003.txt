@@ -1,0 +1,43 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-015836-013071-T1-전남27바2003.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남27바2003
+
+PlateRect
+1115 430 253 66
+
+IsDarkChar
+1
+
+PlateType
+1103
+
+BusinessChar
+0
+
+RegionCode
+1
+전남 1142 448 23 35
+
+CarCode
+2
+2 1168 448 20 35
+7 1191 448 21 33
+
+UseCode
+1
+바 1216 448 21 31
+
+FourNumber
+4
+2 1246 445 22 36
+0 1270 445 22 36
+0 1294 444 22 36
+3 1317 443 23 36
+

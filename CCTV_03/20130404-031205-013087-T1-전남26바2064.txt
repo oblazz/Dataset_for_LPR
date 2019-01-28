@@ -1,0 +1,43 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-031205-013087-T1-전남26바2064.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남26바2064
+
+PlateRect
+593 773 268 63
+
+IsDarkChar
+1
+
+PlateType
+1103
+
+BusinessChar
+0
+
+RegionCode
+1
+전남 622 789 24 34
+
+CarCode
+2
+2 649 789 22 34
+6 674 789 23 32
+
+UseCode
+1
+바 698 790 23 29
+
+FourNumber
+4
+2 731 786 24 36
+0 757 786 23 34
+6 783 785 23 36
+4 807 785 25 34
+

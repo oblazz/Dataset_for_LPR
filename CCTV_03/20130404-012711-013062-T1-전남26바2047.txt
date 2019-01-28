@@ -1,0 +1,43 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-012711-013062-T1-전남26바2047.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남26바2047
+
+PlateRect
+1024 782 266 64
+
+IsDarkChar
+1
+
+PlateType
+1103
+
+BusinessChar
+0
+
+RegionCode
+1
+전남 1053 796 23 33
+
+CarCode
+2
+2 1079 796 21 37
+6 1103 797 23 32
+
+UseCode
+1
+바 1128 798 23 28
+
+FourNumber
+4
+2 1161 795 23 34
+0 1186 795 24 34
+4 1211 795 24 33
+7 1236 794 25 33
+

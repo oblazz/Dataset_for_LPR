@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-012617-013060-T1-19º¸3441.jpg
+
+NumberOfPlate
+1
+
+PlateString
+19º¸3441
+
+PlateRect
+399 800 248 68
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+1 426 814 22 34
+9 450 814 24 35
+
+UseCode
+1
+º¸ 475 817 25 30
+
+FourNumber
+4
+3 519 814 24 35
+4 545 813 25 41
+4 571 813 25 35
+1 596 813 24 34
+

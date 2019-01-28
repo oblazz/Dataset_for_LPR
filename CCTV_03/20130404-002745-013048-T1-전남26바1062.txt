@@ -1,0 +1,43 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-002745-013048-T1-전남26바1062.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남26바1062
+
+PlateRect
+803 789 267 61
+
+IsDarkChar
+1
+
+PlateType
+1103
+
+BusinessChar
+0
+
+RegionCode
+1
+전남 832 804 23 34
+
+CarCode
+2
+2 859 803 21 34
+6 883 803 24 34
+
+UseCode
+1
+바 908 805 23 28
+
+FourNumber
+4
+1 942 802 22 34
+0 967 801 24 35
+6 993 801 23 34
+2 1018 801 23 33
+

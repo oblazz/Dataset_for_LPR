@@ -1,0 +1,43 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-040640-013095-T1-전남26바2014.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남26바2014
+
+PlateRect
+705 770 267 66
+
+IsDarkChar
+1
+
+PlateType
+1103
+
+BusinessChar
+0
+
+RegionCode
+1
+전남 734 785 24 38
+
+CarCode
+2
+2 761 785 22 32
+6 786 785 23 32
+
+UseCode
+1
+바 810 788 23 27
+
+FourNumber
+4
+2 843 784 24 33
+0 868 784 24 33
+1 894 784 22 34
+4 917 783 26 34
+
