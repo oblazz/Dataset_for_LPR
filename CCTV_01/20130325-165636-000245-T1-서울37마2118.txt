@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-165636-000245-T1-서울37마2118.jpg
+
+NumberOfPlate
+1
+
+PlateString
+서울37마2118
+
+PlateRect
+733 720 203 106
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+서 794 738 20 19
+울 818 737 18 21
+
+CarCode
+2
+3 841 739 18 21
+7 861 738 18 22
+
+UseCode
+1
+마 755 755 36 39
+
+FourNumber
+4
+2 798 765 29 44
+1 826 765 29 44
+1 856 765 29 44
+8 886 766 28 42
+

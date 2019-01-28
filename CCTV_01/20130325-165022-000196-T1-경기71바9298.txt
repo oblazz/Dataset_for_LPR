@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-165022-000196-T1-경기71바9298.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기71바9298
+
+PlateRect
+1178 771 271 137
+
+IsDarkChar
+1
+
+PlateType
+1201
+
+BusinessChar
+0
+
+RegionCode
+2
+경 1255 793 31 31
+기 1286 793 30 32
+
+CarCode
+2
+7 1323 794 30 31
+1 1353 794 20 32
+
+UseCode
+1
+바 1207 828 44 46
+
+FourNumber
+4
+9 1257 830 37 55
+2 1298 830 37 55
+9 1341 831 37 55
+8 1382 831 37 55
+

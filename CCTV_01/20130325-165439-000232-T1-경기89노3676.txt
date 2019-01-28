@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-165439-000232-T1-경기89노3676.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기89노3676
+
+PlateRect
+631 690 209 113
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+경 692 709 21 22
+기 714 708 23 23
+
+CarCode
+2
+8 738 709 19 24
+9 757 708 26 28
+
+UseCode
+1
+노 653 737 36 31
+
+FourNumber
+4
+3 695 736 33 49
+6 726 735 33 50
+7 755 736 33 49
+6 784 735 33 49
+

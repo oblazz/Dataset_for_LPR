@@ -1,0 +1,43 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-163556-000098-T1-경기35바4829.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기35바4829
+
+PlateRect
+752 774 312 76
+
+IsDarkChar
+1
+
+PlateType
+1103
+
+BusinessChar
+0
+
+RegionCode
+1
+경기 786 789 29 42
+
+CarCode
+2
+3 816 791 28 42
+5 846 792 28 42
+
+UseCode
+1
+바 874 796 29 36
+
+FourNumber
+4
+4 915 796 28 38
+8 945 796 26 38
+2 973 796 27 39
+9 1004 797 26 37
+

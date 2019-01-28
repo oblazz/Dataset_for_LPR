@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-163827-000113-T1-경기56다7581.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기56다7581
+
+PlateRect
+778 777 206 106
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+경 842 794 20 20
+기 863 794 21 18
+
+CarCode
+2
+5 888 794 18 22
+6 905 794 20 23
+
+UseCode
+1
+다 800 816 36 35
+
+FourNumber
+4
+7 846 818 31 45
+5 875 820 30 44
+8 907 822 29 43
+1 931 822 30 44
+

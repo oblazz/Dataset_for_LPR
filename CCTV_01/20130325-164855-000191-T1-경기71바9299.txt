@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-164855-000191-T1-경기71바9299.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기71바9299
+
+PlateRect
+661 699 268 124
+
+IsDarkChar
+1
+
+PlateType
+1201
+
+BusinessChar
+0
+
+RegionCode
+2
+경 739 719 27 25
+기 768 719 28 26
+
+CarCode
+2
+7 802 720 28 27
+1 834 720 17 27
+
+UseCode
+1
+바 690 750 42 36
+
+FourNumber
+4
+9 741 752 36 45
+2 781 753 35 47
+9 822 753 36 48
+9 864 756 36 47
+

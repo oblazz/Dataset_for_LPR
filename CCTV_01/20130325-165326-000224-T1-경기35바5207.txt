@@ -1,0 +1,43 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-165326-000224-T1-경기35바5207.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기35바5207
+
+PlateRect
+681 773 312 74
+
+IsDarkChar
+1
+
+PlateType
+1103
+
+BusinessChar
+0
+
+RegionCode
+1
+경기 715 787 31 41
+
+CarCode
+2
+3 745 788 29 42
+5 776 791 27 39
+
+UseCode
+1
+바 804 795 27 36
+
+FourNumber
+4
+5 844 794 25 37
+2 874 795 25 37
+0 904 795 25 37
+7 934 796 25 36
+

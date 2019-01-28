@@ -1,0 +1,43 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-162455-000017-T1-경기47아5203.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기47아5203
+
+PlateRect
+495 749 312 73
+
+IsDarkChar
+1
+
+PlateType
+1103
+
+BusinessChar
+0
+
+RegionCode
+1
+경기 529 763 35 40
+
+CarCode
+2
+4 563 766 29 37
+7 594 766 28 37
+
+UseCode
+1
+아 622 767 29 35
+
+FourNumber
+4
+5 662 769 24 36
+2 691 769 24 36
+0 719 770 24 36
+3 749 771 24 36
+

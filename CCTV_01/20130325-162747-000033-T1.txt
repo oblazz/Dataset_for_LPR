@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-162747-000033-T1.jpg
+
+NumberOfPlate
+1
+
+PlateString
+서울84자9739
+
+PlateRect
+645 656 345 142
+
+IsDarkChar
+1
+
+PlateType
+1103
+
+BusinessChar
+0
+
+
+RegionCode
+1
+서울 691 719 27 42
+
+CarCode
+2
+8 720 721 27 41
+4 748 724 30 41
+
+UseCode
+1
+자 779 727 28 35
+
+FourNumber
+4
+9 817 727 26 40
+7 847 728 27 40
+3 876 728 26 39
+9 906 729 26 40
+

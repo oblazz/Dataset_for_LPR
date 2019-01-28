@@ -1,0 +1,43 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-162621-000023-T1-경기35바5082.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기35바5082
+
+PlateRect
+727 791 314 81
+
+IsDarkChar
+1
+
+PlateType
+1103
+
+BusinessChar
+0
+
+RegionCode
+1
+경기 761 807 31 42
+
+CarCode
+2
+3 792 810 29 40
+5 821 811 29 41
+
+UseCode
+1
+바 849 815 30 37
+
+FourNumber
+4
+5 891 816 26 39
+0 920 816 26 39
+8 951 817 26 39
+2 981 818 26 38
+

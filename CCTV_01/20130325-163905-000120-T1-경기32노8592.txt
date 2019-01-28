@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-163905-000120-T1-경기32노8592.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기32노8592
+
+PlateRect
+748 799 204 106
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+경 814 816 18 20
+기 834 817 21 20
+
+CarCode
+2
+3 857 817 18 24
+2 877 818 19 23
+
+UseCode
+1
+노 770 837 36 31
+
+FourNumber
+4
+8 814 843 28 42
+5 843 844 28 42
+9 874 845 28 42
+2 901 844 29 44
+

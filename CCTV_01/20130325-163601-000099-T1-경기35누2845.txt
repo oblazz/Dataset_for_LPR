@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-163601-000099-T1-경기35누2845.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기35누2845
+
+PlateRect
+911 681 212 118
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+경 980 700 20 22
+기 1001 702 20 20
+
+CarCode
+2
+3 1023 701 20 25
+5 1042 701 19 25
+
+UseCode
+1
+누 934 724 37 34
+
+FourNumber
+4
+2 978 726 34 50
+8 1008 728 34 50
+4 1037 728 34 50
+5 1065 728 35 52
+

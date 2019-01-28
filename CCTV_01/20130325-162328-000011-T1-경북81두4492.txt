@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-162328-000011-T1-°æºÏ81µÎ4492.jpg
+
+NumberOfPlate
+1
+
+PlateString
+°æºÏ81µÎ4492
+
+PlateRect
+738 734 208 105
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+°æ 801 751 21 21
+ºÏ 823 751 21 21
+
+CarCode
+2
+8 846 751 21 24
+1 873 752 8 22
+
+UseCode
+1
+µÎ 760 775 37 32
+
+FourNumber
+4
+4 805 778 28 43
+4 835 779 28 42
+9 865 779 28 43
+2 895 779 28 43
+

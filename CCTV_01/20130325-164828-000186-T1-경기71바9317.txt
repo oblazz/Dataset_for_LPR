@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-164828-000186-T1-경기71바9317.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기71바9317
+
+PlateRect
+820 715 270 140
+
+IsDarkChar
+1
+
+PlateType
+1201
+
+BusinessChar
+0
+
+RegionCode
+2
+경 898 737 30 31
+기 926 739 31 31
+
+CarCode
+2
+7 963 741 28 30
+1 993 741 18 32
+
+UseCode
+1
+바 849 771 44 48
+
+FourNumber
+4
+9 901 774 36 54
+3 941 776 36 53
+1 983 777 36 54
+7 1023 779 37 53
+

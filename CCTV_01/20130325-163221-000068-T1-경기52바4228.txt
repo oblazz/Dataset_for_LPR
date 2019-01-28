@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130325-163221-000068-T1-경기52바4228.jpg
+
+NumberOfPlate
+1
+
+PlateString
+경기52바4228
+
+PlateRect
+790 735 209 112
+
+IsDarkChar
+1
+
+PlateType
+1201
+
+BusinessChar
+0
+
+RegionCode
+2
+경 852 753 20 21
+기 872 753 22 22
+
+CarCode
+2
+5 901 754 20 23
+2 923 754 28 23
+
+UseCode
+1
+바 812 782 33 32
+
+FourNumber
+4
+4 848 782 32 44
+2 881 784 29 43
+2 914 785 30 44
+8 946 785 30 44
+
