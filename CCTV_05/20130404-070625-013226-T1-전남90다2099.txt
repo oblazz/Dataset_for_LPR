@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-070625-013226-T1-전남90다2099.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남90다2099
+
+PlateRect
+1120 698 168 102
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+전 1171 718 15 18
+남 1189 718 15 17
+
+CarCode
+2
+9 1206 715 16 20
+0 1223 714 15 20
+
+UseCode
+1
+다 1138 743 27 28
+
+FourNumber
+4
+2 1172 740 25 43
+0 1197 738 25 41
+9 1223 735 22 43
+9 1247 733 23 43
+

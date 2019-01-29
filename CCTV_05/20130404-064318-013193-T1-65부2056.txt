@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-064318-013193-T1-65ºÎ2056.jpg
+
+NumberOfPlate
+1
+
+PlateString
+65ºÎ2056
+
+PlateRect
+739 704 183 93
+
+IsDarkChar
+2
+
+PlateType
+2201
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+6 793 719 23 19
+5 819 719 22 19
+
+UseCode
+1
+ºÎ 844 719 22 18
+
+FourNumber
+4
+2 759 741 34 41
+0 796 741 33 41
+5 833 739 33 42
+6 870 738 32 42
+

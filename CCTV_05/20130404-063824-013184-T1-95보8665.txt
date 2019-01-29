@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-063824-013184-T1-95º¸8665.jpg
+
+NumberOfPlate
+1
+
+PlateString
+95º¸8665
+
+PlateRect
+471 723 183 96
+
+IsDarkChar
+2
+
+PlateType
+2201
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+9 525 738 22 20
+5 551 739 22 19
+
+UseCode
+1
+º¸ 576 740 22 18
+
+FourNumber
+4
+8 491 761 32 42
+6 528 761 32 42
+6 565 761 33 42
+5 603 760 31 43
+

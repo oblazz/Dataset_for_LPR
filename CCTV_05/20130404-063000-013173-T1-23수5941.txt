@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-063000-013173-T1-23¼ö5941.jpg
+
+NumberOfPlate
+1
+
+PlateString
+23¼ö5941
+
+PlateRect
+577 787 248 61
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+2 604 801 22 35
+3 629 803 22 33
+
+UseCode
+1
+¼ö 653 805 25 29
+
+FourNumber
+4
+5 699 802 23 34
+9 724 802 24 34
+4 749 801 26 34
+1 776 799 22 35
+

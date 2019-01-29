@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-070541-013225-T1-87¸Ó8407.jpg
+
+NumberOfPlate
+1
+
+PlateString
+87¸Ó8407
+
+PlateRect
+504 774 253 59
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+8 531 786 22 33
+7 563 788 15 29
+
+UseCode
+1
+¸Ó 582 790 23 28
+
+FourNumber
+4
+8 626 786 25 35
+4 652 786 24 35
+0 679 786 23 34
+7 704 785 25 35
+

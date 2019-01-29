@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-063437-013179-T1-74°¡5659.jpg
+
+NumberOfPlate
+1
+
+PlateString
+74°¡5659
+
+PlateRect
+664 735 249 61
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+7 691 751 22 32
+4 716 751 24 32
+
+UseCode
+1
+°¡ 742 753 23 28
+
+FourNumber
+4
+5 786 749 24 35
+6 811 748 24 36
+5 837 748 23 34
+9 862 747 24 35
+

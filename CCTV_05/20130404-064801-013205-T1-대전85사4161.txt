@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-064801-013205-T1-대전85사4161.jpg
+
+NumberOfPlate
+1
+
+PlateString
+대전85사4161
+
+PlateRect
+569 683 231 124
+
+IsDarkChar
+1
+
+PlateType
+1201
+
+BusinessChar
+0
+
+RegionCode
+2
+대 629 709 21 22
+전 654 707 21 24
+
+CarCode
+2
+8 687 704 21 25
+5 711 703 20 25
+
+UseCode
+1
+사 594 741 27 36
+
+FourNumber
+4
+4 631 737 36 50
+1 670 735 24 50
+6 705 733 32 49
+1 746 734 29 45
+

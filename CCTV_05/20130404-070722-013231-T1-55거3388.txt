@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-070722-013231-T1-55°Å3388.jpg
+
+NumberOfPlate
+1
+
+PlateString
+55°Å3388
+
+PlateRect
+500 770 248 74
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+5 527 789 21 40
+5 553 789 21 33
+
+UseCode
+1
+°Å 576 791 24 28
+
+FourNumber
+4
+3 620 787 24 34
+3 646 786 23 34
+8 672 785 23 34
+8 697 784 24 34
+

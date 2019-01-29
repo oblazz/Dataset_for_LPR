@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-064909-013209-T1-85¾î3924.jpg
+
+NumberOfPlate
+1
+
+PlateString
+85¾î3924
+
+PlateRect
+715 767 185 77
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+8 736 790 18 31
+5 757 790 17 31
+
+UseCode
+1
+¾î 777 796 18 24
+
+FourNumber
+4
+3 798 789 20 33
+9 819 789 19 34
+2 840 788 19 34
+4 859 788 20 34
+

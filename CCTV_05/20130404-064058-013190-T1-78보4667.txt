@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-064058-013190-T1-78º¸4667.jpg
+
+NumberOfPlate
+1
+
+PlateString
+78º¸4667
+
+PlateRect
+1005 753 252 74
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+7 1032 771 24 41
+8 1058 771 24 33
+
+UseCode
+1
+º¸ 1083 773 25 29
+
+FourNumber
+4
+4 1127 770 25 34
+6 1154 769 24 34
+6 1180 768 24 34
+7 1204 767 25 35
+

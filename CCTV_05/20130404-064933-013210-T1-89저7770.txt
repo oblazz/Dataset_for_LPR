@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-064933-013210-T1-89Àú7770.jpg
+
+NumberOfPlate
+1
+
+PlateString
+89Àú7770
+
+PlateRect
+780 742 189 83
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+8 801 765 19 34
+9 822 765 19 34
+
+UseCode
+1
+Àú 843 772 19 27
+
+FourNumber
+4
+7 865 764 20 38
+7 886 764 20 37
+7 907 764 20 37
+0 928 764 19 37
+

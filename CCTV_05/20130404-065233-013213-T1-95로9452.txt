@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-065233-013213-T1-95·Î9452.jpg
+
+NumberOfPlate
+1
+
+PlateString
+95·Î9452
+
+PlateRect
+802 681 249 107
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+9 830 715 24 44
+5 858 715 23 44
+
+UseCode
+1
+·Î 885 721 23 36
+
+FourNumber
+4
+9 914 712 26 47
+4 940 712 28 46
+5 969 711 26 46
+2 997 710 25 46
+

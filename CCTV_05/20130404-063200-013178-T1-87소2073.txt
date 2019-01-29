@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-063200-013178-T1-87¼Ò2073.jpg
+
+NumberOfPlate
+1
+
+PlateString
+87¼Ò2073
+
+PlateRect
+526 717 189 83
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+8 547 739 19 30
+7 567 740 19 29
+
+UseCode
+1
+¼Ò 588 747 19 24
+
+FourNumber
+4
+2 610 741 21 34
+0 632 742 19 33
+7 652 743 21 34
+3 672 743 21 34
+

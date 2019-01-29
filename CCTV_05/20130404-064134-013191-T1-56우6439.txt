@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-064134-013191-T1-56¿ì6439.jpg
+
+NumberOfPlate
+1
+
+PlateString
+56¿ì6439
+
+PlateRect
+380 828 189 83
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+5 401 854 20 33
+6 423 853 19 35
+
+UseCode
+1
+¿ì 443 860 19 26
+
+FourNumber
+4
+6 466 851 20 37
+4 487 850 20 38
+3 507 851 21 36
+9 528 850 19 37
+

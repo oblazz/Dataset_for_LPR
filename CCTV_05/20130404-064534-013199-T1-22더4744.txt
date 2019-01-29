@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-064534-013199-T1-22´õ4744.jpg
+
+NumberOfPlate
+1
+
+PlateString
+22´õ4744
+
+PlateRect
+1425 111 207 51
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+2 1447 123 17 28
+2 1470 124 14 26
+
+UseCode
+1
+´õ 1488 125 20 25
+
+FourNumber
+4
+4 1522 122 24 30
+7 1545 122 22 30
+4 1564 121 23 31
+4 1586 121 23 31
+

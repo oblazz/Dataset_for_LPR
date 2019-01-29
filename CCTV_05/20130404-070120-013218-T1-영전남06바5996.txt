@@ -1,0 +1,45 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-070120-013218-T1-영전남06바5996.jpg
+
+NumberOfPlate
+1
+
+PlateString
+영전남06바5996
+
+PlateRect
+447 640 313 115
+
+IsDarkChar
+2
+
+PlateType
+2205
+
+BusinessChar
+1
+영 482 663 29 26
+
+RegionCode
+2
+전 533 659 44 32
+남 626 658 41 31
+
+CarCode
+2
+0 481 695 34 41
+6 517 697 31 39
+
+UseCode
+1
+바 553 697 30 33
+
+FourNumber
+4
+5 588 694 29 41
+9 622 693 32 42
+9 659 694 30 40
+6 695 693 31 40
+

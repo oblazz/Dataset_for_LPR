@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-065210-013211-T1-95¸¶5433.jpg
+
+NumberOfPlate
+1
+
+PlateString
+95¸¶5433
+
+PlateRect
+799 739 188 74
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+9 820 761 19 30
+5 842 761 17 30
+
+UseCode
+1
+¸¶ 862 767 18 23
+
+FourNumber
+4
+5 884 759 20 33
+4 904 759 20 34
+3 925 759 20 33
+3 946 759 19 33
+

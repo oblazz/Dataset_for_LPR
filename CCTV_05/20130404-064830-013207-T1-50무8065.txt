@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-064830-013207-T1-50¹«8065.jpg
+
+NumberOfPlate
+1
+
+PlateString
+50¹«8065
+
+PlateRect
+714 761 249 59
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+5 741 775 21 33
+0 766 775 21 32
+
+UseCode
+1
+¹« 791 777 23 28
+
+FourNumber
+4
+8 835 774 24 34
+0 861 774 23 33
+6 887 772 23 34
+5 913 772 23 34
+

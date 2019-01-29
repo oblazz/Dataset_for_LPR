@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-064706-013202-T1-60¸ð7152.jpg
+
+NumberOfPlate
+1
+
+PlateString
+60¸ð7152
+
+PlateRect
+657 772 184 79
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+6 678 798 18 31
+0 698 797 18 32
+
+UseCode
+1
+¸ð 719 803 18 25
+
+FourNumber
+4
+7 739 795 21 34
+1 760 794 24 35
+5 781 794 20 33
+2 801 793 19 34
+

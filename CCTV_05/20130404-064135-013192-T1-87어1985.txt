@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-064135-013192-T1-87¾î1985.jpg
+
+NumberOfPlate
+1
+
+PlateString
+87¾î1985
+
+PlateRect
+563 774 177 88
+
+IsDarkChar
+2
+
+PlateType
+2201
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+8 613 790 21 17
+7 638 789 21 16
+
+UseCode
+1
+¾î 661 788 24 19
+
+FourNumber
+4
+1 582 810 25 38
+9 616 810 31 36
+8 652 809 33 36
+5 690 807 31 37
+

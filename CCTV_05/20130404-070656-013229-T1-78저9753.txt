@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-070656-013229-T1-78Àú9753.jpg
+
+NumberOfPlate
+1
+
+PlateString
+78Àú9753
+
+PlateRect
+815 701 241 94
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+7 842 730 24 39
+8 869 729 24 40
+
+UseCode
+1
+Àú 896 735 23 32
+
+FourNumber
+4
+9 924 727 25 42
+7 951 726 25 43
+5 977 726 25 42
+3 1004 726 24 41
+

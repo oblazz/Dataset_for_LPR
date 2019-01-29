@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-064506-013197-T1-95´©9488.jpg
+
+NumberOfPlate
+1
+
+PlateString
+95´©9488
+
+PlateRect
+466 748 184 96
+
+IsDarkChar
+2
+
+PlateType
+2201
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+9 520 763 22 15
+5 549 763 19 18
+
+UseCode
+1
+´© 574 763 19 18
+
+FourNumber
+4
+9 486 784 33 44
+4 522 784 35 44
+8 562 785 30 41
+8 598 785 32 42
+

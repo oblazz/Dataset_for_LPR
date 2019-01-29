@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-065751-013216-T1-89¼Ò9361.jpg
+
+NumberOfPlate
+1
+
+PlateString
+89¼Ò9361
+
+PlateRect
+629 694 250 68
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+8 656 717 20 31
+9 681 715 21 31
+
+UseCode
+1
+¼Ò 707 717 23 28
+
+FourNumber
+4
+9 751 711 24 34
+3 777 710 24 34
+6 803 708 25 34
+1 830 707 22 33
+

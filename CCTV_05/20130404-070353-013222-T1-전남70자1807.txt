@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-070353-013222-T1-전남70자1807.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남70자1807
+
+PlateRect
+1373 680 218 125
+
+IsDarkChar
+1
+
+PlateType
+1201
+
+BusinessChar
+0
+
+RegionCode
+2
+전 1434 708 21 24
+남 1457 706 21 23
+
+CarCode
+2
+7 1488 702 20 24
+0 1510 700 19 24
+
+UseCode
+1
+자 1396 743 30 35
+
+FourNumber
+4
+1 1435 736 31 49
+8 1468 733 32 48
+0 1503 730 30 48
+7 1537 726 30 48
+
