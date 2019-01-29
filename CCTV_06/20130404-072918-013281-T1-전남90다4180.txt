@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-072918-013281-T1-전남90다4180.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남90다4180
+
+PlateRect
+587 731 174 87
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+전 640 746 14 15
+남 658 746 14 16
+
+CarCode
+2
+9 676 745 15 18
+0 693 745 15 17
+
+UseCode
+1
+다 606 766 26 25
+
+FourNumber
+4
+4 641 765 23 39
+1 666 765 25 39
+8 692 765 23 38
+0 717 764 25 39
+

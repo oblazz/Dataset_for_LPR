@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-073218-013295-T1-87´õ2129.jpg
+
+NumberOfPlate
+1
+
+PlateString
+87´õ2129
+
+PlateRect
+611 704 185 97
+
+IsDarkChar
+2
+
+PlateType
+2201
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+8 665 721 22 17
+7 692 721 20 15
+
+UseCode
+1
+´õ 716 719 22 17
+
+FourNumber
+4
+2 631 743 36 42
+1 672 741 27 41
+2 705 740 36 40
+9 741 739 35 44
+

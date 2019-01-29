@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-073336-013296-T1-22´õ4774.jpg
+
+NumberOfPlate
+1
+
+PlateString
+22´õ4774
+
+PlateRect
+360 775 250 61
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+2 387 792 22 32
+2 412 791 22 33
+
+UseCode
+1
+´õ 436 793 25 29
+
+FourNumber
+4
+4 480 789 27 35
+7 505 789 25 34
+7 531 788 25 35
+4 557 787 26 35
+

@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-073105-013289-T1-95¼Ò7766.jpg
+
+NumberOfPlate
+1
+
+PlateString
+95¼Ò7766
+
+PlateRect
+343 727 254 64
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+9 370 744 22 34
+5 397 745 22 33
+
+UseCode
+1
+¼Ò 422 746 24 30
+
+FourNumber
+4
+7 465 742 25 36
+7 491 742 27 35
+6 519 740 24 36
+6 545 739 24 36
+

@@ -1,0 +1,45 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-071521-013244-T1-전남06나8006.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남06나8006
+
+PlateRect
+554 623 312 111
+
+IsDarkChar
+2
+
+PlateType
+2205
+
+BusinessChar
+1
+영 592 648 34 26
+
+RegionCode
+2
+전 641 642 42 29
+남 736 641 45 30
+
+CarCode
+2
+0 588 677 31 39
+6 623 677 31 38
+
+UseCode
+1
+나 659 680 30 31
+
+FourNumber
+4
+8 694 677 30 38
+0 729 677 31 37
+0 765 676 31 37
+6 800 676 32 38
+

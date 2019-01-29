@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-072553-013266-T1-03ºÎ4061.jpg
+
+NumberOfPlate
+1
+
+PlateString
+03ºÎ4061
+
+PlateRect
+870 592 189 90
+
+IsDarkChar
+1
+
+PlateType
+1102
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+0 891 621 19 35
+3 911 620 18 35
+
+UseCode
+1
+ºÎ 931 628 18 27
+
+FourNumber
+4
+4 953 619 19 38
+0 974 618 18 37
+6 994 617 20 38
+1 1012 616 25 39
+

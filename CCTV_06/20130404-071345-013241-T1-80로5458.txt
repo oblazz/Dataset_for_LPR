@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-071345-013241-T1-80·Î5458.jpg
+
+NumberOfPlate
+1
+
+PlateString
+80·Î5458
+
+PlateRect
+1157 339 160 90
+
+IsDarkChar
+2
+
+PlateType
+2201
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+8 1204 355 19 15
+0 1226 356 19 13
+
+UseCode
+1
+·Î 1249 353 18 16
+
+FourNumber
+4
+5 1174 373 30 40
+4 1207 372 29 42
+5 1239 372 28 40
+8 1270 372 29 39
+

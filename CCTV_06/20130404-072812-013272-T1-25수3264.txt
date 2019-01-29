@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-072812-013272-T1-25¼ö3264.jpg
+
+NumberOfPlate
+1
+
+PlateString
+25¼ö3264
+
+PlateRect
+357 833 248 56
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+2 384 847 21 30
+5 410 847 21 30
+
+UseCode
+1
+¼ö 433 849 23 27
+
+FourNumber
+4
+3 475 846 25 32
+2 502 845 24 33
+6 528 845 24 32
+4 553 844 25 33
+

@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-070947-013236-T1-32°í4327.jpg
+
+NumberOfPlate
+1
+
+PlateString
+32°í4327
+
+PlateRect
+1369 50 199 51
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+3 1390 63 13 25
+2 1409 61 16 29
+
+UseCode
+1
+°í 1428 63 19 26
+
+FourNumber
+4
+4 1462 61 22 30
+3 1483 60 21 31
+2 1505 60 20 31
+7 1525 60 21 31
+

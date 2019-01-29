@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-073340-013297-T1-78º¸8211.jpg
+
+NumberOfPlate
+1
+
+PlateString
+78º¸8211
+
+PlateRect
+877 668 211 118
+
+IsDarkChar
+2
+
+PlateType
+2201
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+7 933 690 26 24
+8 967 688 28 24
+
+UseCode
+1
+º¸ 1002 687 28 25
+
+FourNumber
+4
+8 900 720 34 47
+2 943 719 36 47
+1 990 716 31 47
+1 1034 714 31 47
+

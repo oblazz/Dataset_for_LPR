@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-071653-013249-T1-전남53나5473.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남53나5473
+
+PlateRect
+541 748 175 93
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+전 592 765 17 17
+남 610 765 18 16
+
+CarCode
+2
+5 632 763 15 20
+3 649 763 15 20
+
+UseCode
+1
+나 560 786 27 26
+
+FourNumber
+4
+5 596 785 24 41
+4 622 785 24 41
+7 647 785 24 41
+3 673 784 24 41
+

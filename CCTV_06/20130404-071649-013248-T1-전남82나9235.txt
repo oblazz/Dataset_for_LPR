@@ -1,0 +1,44 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-071649-013248-T1-전남82나9235.jpg
+
+NumberOfPlate
+1
+
+PlateString
+전남82나9235
+
+PlateRect
+432 732 234 122
+
+IsDarkChar
+2
+
+PlateType
+2203
+
+BusinessChar
+0
+
+RegionCode
+2
+전 492 751 25 25
+남 520 752 27 24
+
+CarCode
+2
+8 558 752 22 25
+2 583 753 23 25
+
+UseCode
+1
+나 457 783 34 35
+
+FourNumber
+4
+9 501 784 30 48
+2 537 785 31 49
+3 573 784 31 50
+5 609 785 31 49
+

@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-071943-013255-T1-03ºÎ4061.jpg
+
+NumberOfPlate
+1
+
+PlateString
+03ºÎ4061
+
+PlateRect
+505 775 241 63
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+0 531 793 21 32
+3 556 793 21 32
+
+UseCode
+1
+ºÎ 580 795 24 27
+
+FourNumber
+4
+4 623 790 26 34
+0 651 790 23 33
+6 676 788 25 35
+1 697 787 23 34
+

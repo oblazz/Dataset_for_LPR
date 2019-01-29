@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-071059-013237-T1-95º¸7465.jpg
+
+NumberOfPlate
+1
+
+PlateString
+95º¸7465
+
+PlateRect
+831 746 252 61
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+9 858 763 23 31
+5 885 763 22 32
+
+UseCode
+1
+º¸ 909 765 24 28
+
+FourNumber
+4
+7 953 761 26 34
+4 978 760 26 34
+6 1006 759 24 34
+5 1032 758 23 34
+

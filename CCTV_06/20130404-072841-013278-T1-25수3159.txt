@@ -1,0 +1,42 @@
+ETRI_LPR_META_DATA
+
+FileName
+20130404-072841-013278-T1-25¼ö3159.jpg
+
+NumberOfPlate
+1
+
+PlateString
+25¼ö3159
+
+PlateRect
+605 760 245 63
+
+IsDarkChar
+1
+
+PlateType
+1101
+
+BusinessChar
+0
+
+RegionCode
+0
+
+CarCode
+2
+2 631 780 16 28
+5 655 778 20 32
+
+UseCode
+1
+¼ö 679 779 22 28
+
+FourNumber
+4
+3 722 775 24 35
+1 749 774 22 35
+5 774 773 24 34
+9 799 772 24 34
+
