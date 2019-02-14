@@ -50,6 +50,7 @@ Center.
 
 4. Execution
 
+- Decompress egg files in model folder(model/).
 - Locate test images in input folder(Caltech/images/).
 - Write the position of each image in Caltech_images.txt.
 - Run Test.cmd.

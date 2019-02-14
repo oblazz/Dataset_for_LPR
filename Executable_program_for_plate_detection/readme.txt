@@ -2,6 +2,11 @@ PlateDetection Executable made by Seok Bong Yoo
 
 1. Prerequisites for Deployment 
 
+High-performence GPU, CUDA 10.0, and CUDNN 7.4.1 are required.
+
+https://developer.nvidia.com/cuda-toolkit-archive 
+https://developer.nvidia.com/rdp/cudnn-archive
+
 Verify that version 9.3 (R2017b) of the MATLAB Runtime is installed.   
 
 If the MATLAB Runtime is not installed, you can run the MATLAB Runtime installer.
@@ -45,6 +50,7 @@ Center.
 
 4. Execution
 
+- Decompress egg files in model folder(model/).
 - Locate test images in input folder(Caltech/images/).
 - Write the position of each image in Caltech_images.txt.
 - Run Test.cmd.
