@@ -1,4 +1,4 @@
-PlateDetection Executable made by Seok Bong Yoo
+Korean Plate Number Recognition Executable made by Seok Bong Yoo
 
 1. Prerequisites for Deployment 
 
