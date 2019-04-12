@@ -1,3 +1,10 @@
+# DVSNet
+Temporal matching prior network for license plate detection and recognition in videos, Submitted.
+
+# Results
+![demo](https://github.com/seokbongyoo/Dataset_for_LPR/blob/master/%5BDemo_video%5DCaltech_plate_detection.mp4)
+
+
 PlateDetection Executable made by Seok Bong Yoo
 
 1. Prerequisites for Deployment 
