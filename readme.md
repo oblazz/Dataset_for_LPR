@@ -1,5 +1,5 @@
 # Temporal matching prior network
-Temporal matching prior network for license plate detection and recognition in videos, in review.
+Temporal matching prior network for vehicle license plate detection and recognition in videos, in review.
 
 # Results
 [![Demo](https://img.youtube.com/vi/aDLAzLj9M9Y/0.jpg)](https://youtu.be/aDLAzLj9M9Y)
