@@ -44,7 +44,7 @@ NOTE: You will need administrator rights to run the MATLAB Runtime installer.
 2. Files to Deploy and Package
 
 Files to Package for Standalone 
-================================
+
 -PlateDetection.exe
 -MCRInstaller.exe 
     Note: if end users are unable to download the MATLAB Runtime using the
