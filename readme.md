@@ -4,8 +4,13 @@ Temporal matching prior network for license plate detection and recognition in v
 # Results
 [![Demo](https://img.youtube.com/vi/aDLAzLj9M9Y/0.jpg)](https://youtu.be/aDLAzLj9M9Y)
 
-{% include demo.html id="(https://youtu.be/aDLAzLj9M9Y" %}  
+Link: https://youtu.be/aDLAzLj9M9Y
 
+[![Demo](https://img.youtube.com/vi/o01RI9fso7Y/0.jpg)](https://youtu.be/o01RI9fso7Y)
+
+Link: https://youtu.be/o01RI9fso7Y
+
+# Execution
 PlateDetection Executable made by Seok Bong Yoo
 
 1. Prerequisites for Deployment 
