@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<PlateInfo>
+<Rect>738,734,208,105</Rect>
+<Code>경북81두4492</Code>
+<LocalCode value="경북">
+<Rect>801,751,21,21</Rect>
+<Rect>823,751,21,21</Rect>
+</LocalCode>
+<TypeCode value="81">
+<Rect>846,751,21,24</Rect>
+<Rect>873,752,8,22</Rect>
+</TypeCode>
+<UseCode value="두">
+<Rect>760,775,37,32</Rect>
+</UseCode>
+<DigitCode value="4492">
+<Rect>805,778,28,43</Rect>
+<Rect>835,779,28,42</Rect>
+<Rect>865,779,28,43</Rect>
+<Rect>895,779,28,43</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

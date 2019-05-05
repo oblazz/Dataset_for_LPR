@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<PlateInfo>
+<Rect>987,804,268,59</Rect>
+<Code>전남26바2014</Code>
+<LocalCode value="전남">
+<Rect>1016,817,24,34</Rect>
+</LocalCode>
+<TypeCode value="26">
+<Rect>1043,817,22,33</Rect>
+<Rect>1067,818,25,32</Rect>
+</TypeCode>
+<UseCode value="바">
+<Rect>1091,820,24,27</Rect>
+</UseCode>
+<DigitCode value="2014">
+<Rect>1125,816,23,34</Rect>
+<Rect>1150,816,25,33</Rect>
+<Rect>1175,815,24,34</Rect>
+<Rect>1199,815,27,33</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

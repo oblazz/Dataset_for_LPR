@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<PlateInfo>
+<Rect>973,782,262,138</Rect>
+<Code>강원3도9320</Code>
+<LocalCode value="강원">
+<Rect>1088,824,23,23</Rect>
+<Rect>1111,825,26,23</Rect>
+</LocalCode>
+<TypeCode value="3">
+<Rect>1137,828,23,23</Rect>
+</TypeCode>
+<UseCode value="도">
+<Rect>1049,852,28,31</Rect>
+</UseCode>
+<DigitCode value="9320">
+<Rect>1087,851,25,40</Rect>
+<Rect>1115,852,27,40</Rect>
+<Rect>1146,854,25,43</Rect>
+<Rect>1176,855,25,42</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

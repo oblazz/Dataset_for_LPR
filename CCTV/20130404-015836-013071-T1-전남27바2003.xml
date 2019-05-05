@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<PlateInfo>
+<Rect>1115,430,253,66</Rect>
+<Code>전남27바2003</Code>
+<LocalCode value="전남">
+<Rect>1142,448,23,35</Rect>
+</LocalCode>
+<TypeCode value="27">
+<Rect>1168,448,20,35</Rect>
+<Rect>1191,448,21,33</Rect>
+</TypeCode>
+<UseCode value="바">
+<Rect>1216,448,21,31</Rect>
+</UseCode>
+<DigitCode value="2003">
+<Rect>1246,445,22,36</Rect>
+<Rect>1270,445,22,36</Rect>
+<Rect>1294,444,22,36</Rect>
+<Rect>1317,443,23,36</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

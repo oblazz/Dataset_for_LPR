@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<PlateInfo>
+<Rect>1451,394,172,90</Rect>
+<Code>48버5535</Code>
+<TypeCode value="48">
+<Rect>1470,421,17,32</Rect>
+<Rect>1490,420,17,33</Rect>
+</TypeCode>
+<UseCode value="버">
+<Rect>1508,426,18,27</Rect>
+</UseCode>
+<DigitCode value="5535">
+<Rect>1529,418,18,41</Rect>
+<Rect>1547,419,19,36</Rect>
+<Rect>1568,420,15,33</Rect>
+<Rect>1585,418,18,37</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

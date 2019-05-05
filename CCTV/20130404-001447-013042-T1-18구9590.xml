@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<PlateInfo>
+<Rect>655,778,250,73</Rect>
+<Code>18구9590</Code>
+<TypeCode value="18">
+<Rect>682,797,21,33</Rect>
+<Rect>706,797,24,39</Rect>
+</TypeCode>
+<UseCode value="구">
+<Rect>730,799,25,28</Rect>
+</UseCode>
+<DigitCode value="9590">
+<Rect>776,795,23,34</Rect>
+<Rect>803,794,23,34</Rect>
+<Rect>828,793,23,34</Rect>
+<Rect>854,792,24,35</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

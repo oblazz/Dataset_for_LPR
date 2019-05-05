@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<PlateInfo>
+<Rect>636,786,252,59</Rect>
+<Code>64노3327</Code>
+<TypeCode value="64">
+<Rect>663,801,24,32</Rect>
+<Rect>688,801,24,32</Rect>
+</TypeCode>
+<UseCode value="노">
+<Rect>714,802,24,29</Rect>
+</UseCode>
+<DigitCode value="3327">
+<Rect>758,799,23,33</Rect>
+<Rect>783,798,25,34</Rect>
+<Rect>810,798,24,34</Rect>
+<Rect>835,797,25,34</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

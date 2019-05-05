@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<PlateInfo>
+<Rect>820,715,270,140</Rect>
+<Code>경기71바9317</Code>
+<LocalCode value="경기">
+<Rect>898,737,30,31</Rect>
+<Rect>926,739,31,31</Rect>
+</LocalCode>
+<TypeCode value="71">
+<Rect>963,741,28,30</Rect>
+<Rect>993,741,18,32</Rect>
+</TypeCode>
+<UseCode value="바">
+<Rect>849,771,44,48</Rect>
+</UseCode>
+<DigitCode value="9317">
+<Rect>901,774,36,54</Rect>
+<Rect>941,776,36,53</Rect>
+<Rect>983,777,36,54</Rect>
+<Rect>1023,779,37,53</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

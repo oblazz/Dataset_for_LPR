@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<PlateInfo>
+<Rect>713,760,308,73</Rect>
+<Code>서울33아7978</Code>
+<LocalCode value="서울">
+<Rect>746,774,30,39</Rect>
+</LocalCode>
+<TypeCode value="33">
+<Rect>775,777,27,38</Rect>
+<Rect>804,776,27,41</Rect>
+</TypeCode>
+<UseCode value="아">
+<Rect>833,778,31,35</Rect>
+</UseCode>
+<DigitCode value="7978">
+<Rect>873,780,26,37</Rect>
+<Rect>902,780,25,37</Rect>
+<Rect>933,780,25,37</Rect>
+<Rect>962,781,25,37</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

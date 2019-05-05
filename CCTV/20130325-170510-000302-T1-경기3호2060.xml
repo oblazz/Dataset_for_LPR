@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<PlateInfo>
+<Rect>1155,838,193,105</Rect>
+<Code>경기3호2060</Code>
+<LocalCode value="경기">
+<Rect>1214,856,22,23</Rect>
+<Rect>1237,856,23,23</Rect>
+</LocalCode>
+<TypeCode value="3">
+<Rect>1265,855,23,23</Rect>
+</TypeCode>
+<UseCode value="호">
+<Rect>1176,889,30,28</Rect>
+</UseCode>
+<DigitCode value="2060">
+<Rect>1211,882,29,44</Rect>
+<Rect>1241,882,29,44</Rect>
+<Rect>1269,882,29,43</Rect>
+<Rect>1298,880,29,44</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>

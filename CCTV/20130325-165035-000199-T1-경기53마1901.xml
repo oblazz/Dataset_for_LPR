@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<RexMetaInfo>
+<PlateInfo>
+<Rect>739,751,206,105</Rect>
+<Code>경기53마1901</Code>
+<LocalCode value="경기">
+<Rect>804,768,18,21</Rect>
+<Rect>825,769,21,19</Rect>
+</LocalCode>
+<TypeCode value="53">
+<Rect>848,768,17,22</Rect>
+<Rect>867,769,18,22</Rect>
+</TypeCode>
+<UseCode value="마">
+<Rect>761,787,36,37</Rect>
+</UseCode>
+<DigitCode value="1901">
+<Rect>804,795,29,43</Rect>
+<Rect>833,796,29,43</Rect>
+<Rect>863,796,29,43</Rect>
+<Rect>893,796,29,43</Rect>
+</DigitCode>
+</PlateInfo>
+</RexMetaInfo>
