@@ -1,6 +1,0 @@
-classes= 122
-train  = data/voc/train.txt
-valid  = data/voc/2007_test.txt
-names = setting/number_recognition.names
-backup = backup/
-

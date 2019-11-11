@@ -1,7 +1,0 @@
-classes= 1
-train  = data/train2.txt
-valid  = data/2007_test.txt
-#difficult = data/difficult_2007_test.txt
-names = setting/plate_detection.names
-backup = backup/
-
